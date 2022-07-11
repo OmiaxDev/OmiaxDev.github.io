@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Consolas;
+}
+body {
+    background: #000000;
+    cursor: url(mario.png), auto;
+}
+
+a {
+    cursor: url(mario_saltando.png), auto;
+}
+
+span {}
+.header{}
+.wrap {}
+.logo{}
+.menu{}
+.menu a{}
+.menu a:hover{}
